@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "8T0iYZjg5VKpN9aSex4uqVtUsfU=",
+			"path": "github.com/xgfone/netaddr",
+			"revision": "cc4e32aaea1c36cb4710b4814ded7e55bbde8ca2",
+			"revisionTime": "2019-03-21T10:36:10Z"
+		}
+	],
+	"rootPath": "github.com/junzexu/dynamicTrie"
+}
